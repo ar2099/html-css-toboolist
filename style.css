@@ -11,6 +11,14 @@ background-color: #F6F8F9;
 /* fine reset */
 
 
+/* parti che riguardano tutta la pagina */
+
+
+
+
+/* fine parti generali */
+
+
 /* Header: logo e scritta Toobolist */
 
 header {
@@ -36,3 +44,47 @@ h1 {
 }
 
 /* Fine Header: logo e scritta Toobolist */
+
+
+/* task section */
+
+#button1 {
+    height: 40px;
+    width: 80px;
+    background-color: #47ADF1;
+    color: white;
+    border: 0px;
+    border-radius: 7%;
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+#button2 {
+    height: 40px;
+    width: 130px;
+    background-color: white;
+    color: grey;
+    border: 1px solid grey;
+    border-radius: 7%;
+    font-size: 0.9em;
+    font-weight: bold;
+}
+
+#buttons {
+height: fit-content;
+width: fit-content;
+padding-left: 50px;
+line-height: 120px;
+vertical-align: middle;
+background-color: white;
+}
+
+nav {
+    background-color: white;
+    height: 120px;
+    width: 75%;
+    margin: auto;
+   margin-top: 30px;
+}
+
+/* fine task section */
