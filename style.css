@@ -42,3 +42,33 @@ h1 {
 /* Fine Header: logo e scritta Toobolist */
 
 
+/* nav (bottoni superiori) */
+
+nav {
+    width: 75%;
+    background-color: white;
+    margin: 50px auto;
+    padding: 30px 30px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px
+}
+
+.button-active {
+    background-color: rgb(50, 87, 255);
+    padding: 9px;
+    color: white;
+    border-radius: 15px;
+}
+
+.button-non-active {
+    background-color: white;
+    padding: 9px;
+    color: grey;
+    border-radius: 15px;
+    border: 1px solid grey;
+}
+
+/* fine nav (bottoni superiori) */
+
+
+
