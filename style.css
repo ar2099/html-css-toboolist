@@ -47,7 +47,7 @@ h1 {
 nav {
     width: 75%;
     background-color: white;
-    margin: 50px auto;
+    margin: 50px auto 4px;
     padding: 30px 30px;
     border-top-right-radius: 15px;
     border-top-left-radius: 15px
@@ -70,5 +70,87 @@ nav {
 
 /* fine nav (bottoni superiori) */
 
+
+/* inizio main */
+
+
+                    /* impostazioni generali */
+
+
+main {
+    width: 75%;
+    margin: auto;
+    padding: 30px;
+    background-color: white;
+}
+
+h2 {
+    display: inline-block;
+}
+
+.riga {
+    display: inline-block;
+    margin-left: 7px;
+    margin-right: 4px;
+    margin-top: 10px;
+}
+
+.cerchio-verde {
+    height: 20px;
+    width: 20px;
+    border: 1px solid green;
+    color: green;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 50%;
+    line-height: 20px;
+}
+
+.button-editorial{
+    font-size: 0.6em;
+    color: white;
+    padding: 7px;
+    background-color: rgb(50, 87, 255);
+    border-radius: 25%;
+}
+
+.container {
+    margin-top: 40px;
+
+}
+
+.total-riga {
+    padding-bottom: 20px;
+}
+                    
+                    /* primo paragrafo */
+
+                    /* secondo paragrafo */
+
+.button-quoals {
+    font-size: 0.6em;
+    color: white;
+    padding: 7px;
+    background-color: rgb(248, 26, 237);
+    border-radius: 25%;
+}
+
+.button-recruiting {
+    font-size: 0.6em;
+    color: white;
+    padding: 7px;
+    background-color: rgb(26, 248, 93);
+    border-radius: 25%;
+}
+
+
+.button-mobile {
+    font-size: 0.6em;
+    color: white;
+    padding: 7px;
+    background-color: rgb(255, 194, 27);
+    border-radius: 25%;
+}
 
 
