@@ -5,7 +5,7 @@ box-sizing: border-box;
 padding: 0;
 margin: 0;
 font-family: Arial, Helvetica, sans-serif;
-background-color: #F6F8F9;
+backgrou#F6F8F9;nd-color: 
 }
 
 /* fine reset */
@@ -88,3 +88,64 @@ nav {
 }
 
 /* fine task section */
+
+
+h2 {
+    display: inline;
+    font-size: 2em;
+}
+
+
+.paragrafo {
+    text-decoration-style: tra;
+}
+
+ul {
+  list-style-image: url('spunta.png');
+}
+
+li {
+    margin-left: 3em;
+}
+
+
+
+.cerchio-verde {
+    height: 20px;
+    width: 20px;
+    border: 1px solid green;
+    border-radius: 50%;
+    color: green;
+    text-align: center;
+    padding: 0;
+    display: inline-block;
+    line-height: 20px;
+    vertical-align: middle;
+    margin-right: 3px;
+}
+
+.list {
+    font-size: 1.3em;
+    margin-left: 25px;
+    background-color: white;
+}
+
+.editorial {
+    height: 40px;
+    width: 80px;
+    background-color: #47ADF1;
+    color: white;
+    border: 0px;
+    border-radius: 40%;
+    font-size: 0.7em;
+}
+
+
+.paragrafo {
+    background-color: white;
+    width: 75%;
+}
+
+h2 {
+    background-color: white;
+}
